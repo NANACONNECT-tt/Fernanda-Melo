@@ -1,4 +1,4 @@
-<div aling="center" 
+<div aling="center">
 # Olá, mundo! 👋 Eu sou a Fernanda Oliveira de Melo
 
 <img align="right" src="https://komarev.com/ghpvc/?username=SEU-USUARIO-GITHUB&color=brightgreen" alt="Profile views" />
